@@ -1,25 +1,12 @@
----
-description: also known as Phineas Phisher or Subcowmandante Marcos.
----
-
-# \[2014\] Phineas Fisher
+# Hacking Team - April 2016
 
 {% hint style="info" %}
-**Metadata  
-Country**: Unknown  
-**Active**: ?  
-**Alignment**: Chaotic Good  
-**Identity**: Unknown publicly, but likely known within the hacker community.  
+M**etadata  
+Attribution:** [Phineas Fisher](../../../details/players/2014-phineas-fisher.md)  
 **Feelpinion**: ?
 {% endhint %}
 
-![The Phineas Fisher Puppet by Vice Motherboard interview video](../../.gitbook/assets/image%20%282%29.png)
-
 ## History
-
-### \*\*\*\*[**Gamma Group International/FinFisher - August 2014**](../../timeline/2014/august-2014/gamma-group-international-finfisher-2014.md)\*\*\*\*
-
-### **Hacking Team - April 2016**
 
 ```text
                 _   _            _      ____             _    _ 
@@ -949,6 +936,4 @@ D0lLGUSkx24yD1sIAGEZ4B57VZNBS0az8HoQeF0k
                |_| |_|\__,_|\___|_|\_\ |____/ \__,_|\___|_|\_(_)
 
 ```
-
-### **Catalan police union - May 2016**
 
