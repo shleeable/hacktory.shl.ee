@@ -14,6 +14,8 @@
 
 ## Timeline
 
-* [2021](timeline/2021.md)
+* [2021](timeline/2021/README.md)
+  * [September 2021](timeline/2021/september-2021/README.md)
+    * [Operation Epik Fail](timeline/2021/september-2021/operation-epik-fail.md)
 * [2020](timeline/2020.md)
 
