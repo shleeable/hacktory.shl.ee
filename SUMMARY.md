@@ -4,7 +4,7 @@
 
 ## Details
 
-* [Players](details/players/README.md)
+* [Attribution](details/players/README.md)
   * [\[2009\] Telecomix](details/players/2009-telecomix.md)
   * [\[2010\] The Jester](details/players/2010-the-jester.md)
   * [\[2012\] Cutting Sword of Justice](details/players/2012-cutting-sword-of-justice.md)
