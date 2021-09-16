@@ -13,7 +13,7 @@ Country**: New Zealand
 
 ### Whaledump Hack \[Early 2014\]
 
-![Avatar from the @whaledump2 account](../../.gitbook/assets/image%20%281%29.png)
+![Avatar from the @whaledump2 account](../../../.gitbook/assets/image%20%281%29.png)
 
 Whale Oil Beef Hooked \(generally referred to as WhaleOil\) is the personal blog of Cameron Slater which he started in 2005.
 
@@ -23,7 +23,7 @@ The unknown hacker/hackers working independently  Nicky Hager \(born 1958\) is a
 
 Rawshark has vanished.
 
-![https://twitter.com/whaledump2/status/507683658996936704](../../.gitbook/assets/image.png)
+![https://twitter.com/whaledump2/status/507683658996936704](../../../.gitbook/assets/image.png)
 
 ## Details
 

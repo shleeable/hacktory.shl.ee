@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 M**etadata  
-Attribution:** [Phineas Fisher](../../../details/players/2014-phineas-fisher.md)  
+Attribution:** [Phineas Fisher](../../../details/players/hackivists/2014-phineas-fisher.md)  
 **Feelpinion**: ?
 {% endhint %}
 
