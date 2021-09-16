@@ -424,7 +424,3 @@ hackers, dissidents, and criminals!
 * [https://ddosecrets.com/wiki/Finfisher](https://ddosecrets.com/wiki/Finfisher)
 * [https://netzpolitik.org/2014/gamma-finfisher-hacked-40-gb-of-internal-documents-and-source-code-of-government-malware-published/](https://netzpolitik.org/2014/gamma-finfisher-hacked-40-gb-of-internal-documents-and-source-code-of-government-malware-published/)
 
-{% file src="../../../.gitbook/assets/finfisher.torrent" caption="The original .torrent file" %}
-
-
-
