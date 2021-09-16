@@ -8,4 +8,9 @@ On 4th of August 2014, [https://www.reddit.com/r/Anarchism/comments/2cjlop/gamma
 
 ## References
 
-* 
+* [https://ddosecrets.com/wiki/Finfisher](https://ddosecrets.com/wiki/Finfisher)
+
+{% file src="../../../.gitbook/assets/finfisher.torrent" caption="The original .torrent file" %}
+
+
+
