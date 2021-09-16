@@ -17,7 +17,7 @@ Country**: Unknown
 
 ## History
 
-**Gamma Group International/FinFisher - 2015**
+### **Gamma Group International/FinFisher - 2015**
 
 ```text
                 _   _            _      ____             _    _ 
@@ -430,7 +430,7 @@ hackers, dissidents, and criminals!
 
 ```
 
-**Hacking Team - April 2016**
+### **Hacking Team - April 2016**
 
 ```text
                 _   _            _      ____             _    _ 
@@ -1361,5 +1361,5 @@ D0lLGUSkx24yD1sIAGEZ4B57VZNBS0az8HoQeF0k
 
 ```
 
-**Catalan police union - May 2016**
+### **Catalan police union - May 2016**
 
