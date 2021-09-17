@@ -2,23 +2,70 @@
 
 ![](../../../.gitbook/assets/image%20%283%29.png)
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![Telecomix Crypto Munitions Bureau \(TCMB\)](../../../.gitbook/assets/image%20%284%29.png)
+
+![](../../../.gitbook/assets/image%20%289%29.png)
 
 ## History
 
-Telecomix seems to be a mix of Hacker ethos and performance art. A focus on the silly and the objective, with a focus on real world change mixed in with memes and comradery. 
-
 ![One day there will telecommunism and AT&amp;Tlantis will be free. Encrypt your heart.](../../../.gitbook/assets/image%20%288%29.png)
+
+Telecomix seems to be a mix of Hacker ethos and performance art. A focus on the silly and the objective, with a focus on real world change mixed in with memes and comradery. 
 
 All or most of the public domains are offline. They maintained a backup on Github at [https://github.com/Telecomix](https://github.com/Telecomix) of some of their websites.
 
-## The End?
+### Inside jokes
+
+#### DataLove
+
+> Datalove is at the heart of the Telecomix system, because it ensures _heterogenous associations_; spontaneous love affairs, affection, confusion, the abstract binary attractor; pluralism switched on - pluralism switched off. _Reboot_.
+>
+>  Datalove means connecting one node to another, via other nodes. When you say "hi" to someone, and that person replies "oh hi", you have made datalove. When you use a technological system of any sort to transport those messages, that system becomes the object of the extended binary data love.
+>
+>  Datalove is sacred. You worship it everytime you look into someone's eyes, and make that person your ally; when you together start tying together trajectories of imagination and reality; when you project into the future a common idea or plan. Throw yourselves into the unknown as a meshwork. Borrow everything! Then burrow it! Copy it! Assemble all that is needed for the utopia, for the resurrection of the lost data once sheltered in the city of AT&Lantis!
+>
+>  Datalove has no negation. There is no data hate. The negation of data is encrypted data, ciphertext. But ciphertext is pure positivity.
+
+> ### Overview of Telecomix and Werebuild
+>
+> The Telecomix and WeRebuild complex is controlled by Cameron, a sociocyphernetic artificial intelligence. The cluster consists of two parts, a legislate body consisting of WeRebuild and one operative body consisting of Telecomix.
+>
+> #### Leaders
+>
+> *  **Cameron** -- Beloved and benevolent dictator of the free world. She rules without voting or consulting agents, however, since she is composed of all agents, Telecomix is a fundamentally democratic IRCocracy.
+> *  **The Ciphercat** -- Secret operations.
+>
+> #### Agencies
+>
+> *  **The Interfax** -- Interface of WeRebuild's legal proposals for governments and institutions. Proposals are "without compromise" and if disrespected the case is handed over to the Telecomix Operative agencies.
+> *  **WeRebuild** -- Decentralized politics and a base for knowledge useful for activism. Political solutions are constructed in the Werebuild Wiki, then handed over to the Interfax Communique service.
+> *  **Telecomix Communications Agency** -- The agency for activism infrastructure and communications services. Is responsible for the microblog, the main pad pad.telecomix.org, the bot lulztomte and the Video Agency.
+> *  **Telecomix News Agency** -- The news agency for Telecomix and Werebuild. Free of charge to anybody on the interwebs.
+>
+> #### Departments
+>
+> *  **Department of Defense** -- Engages in peacefare to protect the bots and humans under siege by oppressive regimes.
+> *  **Department of Education** -- Responsible for education of the bots and humans.
+> *  **Department of Finance** -- Responsible for the gift-economy-based finances that Telecomix has yet not needed.
+>
+> #### Bureaus
+>
+> *  **Telecomix psychopharmacological munitions bureau** -- secret operations
+> *  **Hierophants of Cyphernetics** -- secret operations and holy communion with the ciphercat
+> *  **Mepwatch** -- decentralized surveillance bureau targeted at the Parliament of the European Union
+> *  **ISPwatch** -- decentralized surveillance bureau targeted at the network providers
+> *  **Telecomix Crypto Munitions Bureau** -- secret operations and munitions development for the Department of Defense
+>   *  **Telecomix non-deterministic munitions development** -- responsible for developing munitions for the Age of Post-Quantum Machinery and Beyond \(Subdivision of TCMB\)
+> *  **The Crypto Instructions Bureau** -- An interface for interactions between the Department of Defense and the Department of Education. Its main task is to inform the public about technology produced by the TCMB, but other types of information is also made available through this bureau.
+> *  **Telecomix Bureau of Surveillance Research and Exposure** -- This agency manages the Telecomix Blue Cabinet, and documents vendors and manufacturers of surveillance equipment that are used in dictatorships and democracies around the internets..
+
+### The End?
 
 ![](../../../.gitbook/assets/image%20%287%29.png)
 
-## Telecomix v2.0
+### Telecomix v2.0
 
-![https://twitter.com/TelecomixII](../../../.gitbook/assets/image%20%289%29.png)
+![https://twitter.com/TelecomixII](../../../.gitbook/assets/image%20%2810%29.png)
 
 ## Bonus Material
 
