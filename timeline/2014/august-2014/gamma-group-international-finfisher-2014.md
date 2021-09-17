@@ -10,7 +10,7 @@ Attribution:** [Phineas Fisher](../../../details/attribution/hackivists/2014-phi
 
 On 4th of August 2014, [https://www.reddit.com/r/Anarchism/comments/2cjlop/gamma\_international\_leaked/](https://www.reddit.com/r/Anarchism/comments/2cjlop/gamma_international_leaked/) was posted with a link to their twitter account [https://twitter.com/gammagrouppr](https://twitter.com/gammagrouppr) \(Dead\).
 
-![The original public post to /r/Anarchism](../../../.gitbook/assets/image%20%284%29.png)
+![The original public post to /r/Anarchism](../../../.gitbook/assets/image%20%285%29.png)
 
 ## Mirrored Documents
 
@@ -429,4 +429,5 @@ hackers, dissidents, and criminals!
 
 * [https://ddosecrets.com/wiki/Finfisher](https://ddosecrets.com/wiki/Finfisher)
 * [https://netzpolitik.org/2014/gamma-finfisher-hacked-40-gb-of-internal-documents-and-source-code-of-government-malware-published/](https://netzpolitik.org/2014/gamma-finfisher-hacked-40-gb-of-internal-documents-and-source-code-of-government-malware-published/)
+* [https://theintercept.com/2014/08/07/leaked-files-german-spy-company-helped-bahrain-track-arab-spring-protesters/](https://theintercept.com/2014/08/07/leaked-files-german-spy-company-helped-bahrain-track-arab-spring-protesters/)
 
