@@ -8,9 +8,19 @@
 
 Telecomix seems to be a mix of Hacker ethos and performance art. A focus on the silly and the objective, with a focus on real world change mixed in with memes and comradery. 
 
-![One day there will telecommunism and AT&amp;Tlantis will be free. Encrypt your heart.](../../../.gitbook/assets/image%20%287%29.png)
+![One day there will telecommunism and AT&amp;Tlantis will be free. Encrypt your heart.](../../../.gitbook/assets/image%20%288%29.png)
 
 All or most of the public domains are offline. They maintained a backup on Github at [https://github.com/Telecomix](https://github.com/Telecomix) of some of their websites.
+
+## The End?
+
+![](../../../.gitbook/assets/image%20%287%29.png)
+
+## Telecomix v2.0
+
+![https://twitter.com/TelecomixII](../../../.gitbook/assets/image%20%289%29.png)
+
+## Bonus Material
 
 ```text
 ###Originally published on interfax.werebuild.eu, sometime during 2009###
