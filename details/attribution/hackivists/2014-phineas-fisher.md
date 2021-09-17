@@ -17,7 +17,7 @@ Country**: Unknown
 
 ## History
 
-![Us?](../../../.gitbook/assets/image%20%287%29.png)
+![Us?](../../../.gitbook/assets/image%20%288%29.png)
 
 ### \*\*\*\*[**Gamma Group International/FinFisher - August 2014**](../../../timeline/2014/august-2014/gamma-group-international-finfisher-2014.md)\*\*\*\*
 
