@@ -6,7 +6,7 @@
 
 ## History
 
-Taken from [https://github.com/Telecomix](https://github.com/Telecomix) 
+All or most of the public domains are offline. They maintained a backup on Github at [https://github.com/Telecomix](https://github.com/Telecomix) of some of their websites.
 
 ```text
 ###Originally published on interfax.werebuild.eu, sometime during 2009###
