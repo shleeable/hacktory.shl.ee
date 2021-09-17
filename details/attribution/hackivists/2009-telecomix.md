@@ -6,6 +6,8 @@
 
 ## History
 
+Telecomix seems to be a mix of Hacker ethos and performance art. A focus on the silly and the objective, with a focus on real world change mixed in with memes and comradery. 
+
 All or most of the public domains are offline. They maintained a backup on Github at [https://github.com/Telecomix](https://github.com/Telecomix) of some of their websites.
 
 ```text
