@@ -63,7 +63,7 @@ All or most of the public domains are offline. They maintained a backup on Githu
 
 ![](../../../.gitbook/assets/image%20%287%29.png)
 
-### Telecomix v2.0
+## Telecomix v2.0
 
 ![https://twitter.com/TelecomixII](../../../.gitbook/assets/image%20%2810%29.png)
 
