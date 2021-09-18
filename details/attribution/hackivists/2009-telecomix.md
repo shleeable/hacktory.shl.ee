@@ -16,15 +16,17 @@ All or most of the public domains are offline. They maintained a backup on Githu
 
 ### Inside jokes
 
+All or most of the public facing Telecomix stuff is poetry mixed with word salad.
+
 #### DataLove
 
 > Datalove is at the heart of the Telecomix system, because it ensures _heterogenous associations_; spontaneous love affairs, affection, confusion, the abstract binary attractor; pluralism switched on - pluralism switched off. _Reboot_.
 >
->  Datalove means connecting one node to another, via other nodes. When you say "hi" to someone, and that person replies "oh hi", you have made datalove. When you use a technological system of any sort to transport those messages, that system becomes the object of the extended binary data love.
+> Datalove means connecting one node to another, via other nodes. When you say "hi" to someone, and that person replies "oh hi", you have made datalove. When you use a technological system of any sort to transport those messages, that system becomes the object of the extended binary data love.
 >
->  Datalove is sacred. You worship it everytime you look into someone's eyes, and make that person your ally; when you together start tying together trajectories of imagination and reality; when you project into the future a common idea or plan. Throw yourselves into the unknown as a meshwork. Borrow everything! Then burrow it! Copy it! Assemble all that is needed for the utopia, for the resurrection of the lost data once sheltered in the city of AT&Lantis!
+> Datalove is sacred. You worship it everytime you look into someone's eyes, and make that person your ally; when you together start tying together trajectories of imagination and reality; when you project into the future a common idea or plan. Throw yourselves into the unknown as a meshwork. Borrow everything! Then burrow it! Copy it! Assemble all that is needed for the utopia, for the resurrection of the lost data once sheltered in the city of AT&Lantis!
 >
->  Datalove has no negation. There is no data hate. The negation of data is encrypted data, ciphertext. But ciphertext is pure positivity.
+> Datalove has no negation. There is no data hate. The negation of data is encrypted data, ciphertext. But ciphertext is pure positivity.
 
 > ### Overview of Telecomix and Werebuild
 >
@@ -63,7 +65,7 @@ All or most of the public domains are offline. They maintained a backup on Githu
 
 ![](../../../.gitbook/assets/image%20%287%29.png)
 
-## Telecomix v2.0
+### Telecomix v2.0
 
 ![https://twitter.com/TelecomixII](../../../.gitbook/assets/image%20%2810%29.png)
 
