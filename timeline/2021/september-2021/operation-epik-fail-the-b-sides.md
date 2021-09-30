@@ -1,4 +1,4 @@
-# Operation Epik Fail - the /b/ sides
+# 29th - Operation Epik Fail - the /b/ sides
 
 On September 29, Anonymous released a second leak, this time consisting of bootable disk images.
 
