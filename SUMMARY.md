@@ -21,6 +21,7 @@
 
 * [2021](timeline/2021/README.md)
   * [September 2021](timeline/2021/september-2021/README.md)
+    * [Operation Epik Fail - the /b/ sides](timeline/2021/september-2021/operation-epik-fail-the-b-sides.md)
     * [Operation Epik Fail](timeline/2021/september-2021/operation-epik-fail.md)
   * [August 2021](timeline/2021/august-2021.md)
   * [July 2021](timeline/2021/july-2021.md)

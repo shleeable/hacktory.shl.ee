@@ -1,6 +1,6 @@
 # Operation Epik Fail
 
-Public statement at [https://4chan.partyvan.epikfail.win:55899/](https://4chan.partyvan.epikfail.win:55899/)
+On September 13th, Anonymous released the Epik leak, with the following public statement at [https://4chan.partyvan.epikfail.win:55899/](https://4chan.partyvan.epikfail.win:55899/)
 
 ```text
 
