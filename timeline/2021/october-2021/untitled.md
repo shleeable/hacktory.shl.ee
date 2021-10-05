@@ -1,0 +1,130 @@
+# Untitled
+
+```text
+*****************************************************************************************
+________                                     __   .__
+\_____  \  ______    ____  _______ _____   _/  |_ |__|  ____    ____
+ /   |   \ \____ \ _/ __ \ \_  __ \\__  \  \   __\|  | /  _ \  /    \
+/    |    \|  |_> >\  ___/  |  | \/ / __ \_ |  |  |  |(  <_> )|   |  \
+\_______  /|   __/  \___  > |__|   (____  / |__|  |__| \____/ |___|  /
+        \/ |__|         \/              \/                         \/
+ ________   _______    _____   ___  ____      ________        _        _____    _____
+|_   __  | |_   __ \  |_   _| |_  ||_  _|    |_   __  |      / \      |_   _|  |_   _|
+  | |_ \_|   | |__) |   | |     | |_/ /        | |_ \_|     / _ \       | |      | |
+  |  _| _    |  ___/    | |     |  __'.        |  _|       / ___ \      | |      | |   _
+ _| |__/ |  _| |_      _| |_   _| |  \ \_     _| |_      _/ /   \ \_   _| |_    _| |__/ |
+|________| |_____|    |_____| |____||____|   |_____|    |____| |____| |_____|  |________|
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+__   __            _               _     _____ _            _____                      
+\ \ / /           | |             | |   |_   _| |          |  __ \                     
+ \ V /___  _   _  | |     ___  ___| |_    | | | |__   ___  | |  \/ __ _ _ __ ___   ___ 
+  \ // _ \| | | | | |    / _ \/ __| __|   | | | '_ \ / _ \ | | __ / _` | '_ ` _ \ / _ \
+  | | (_) | |_| | | |___| (_) \__ \ |_    | | | | | |  __/ | |_\ \ (_| | | | | | |  __/
+  \_/\___/ \__,_| \_____/\___/|___/\__|   \_/ |_| |_|\___|  \____/\__,_|_| |_| |_|\___|
+
+*****************************************************************************************
+
+OFFICIAL ANONYMOUS (not to be confused with 'YourAnonCentral' grifters) PRESS RELEASE
+OCTOBER 04, 2021 @ epikfail.is
+NOTORIOUS "HACKERS ON ESTRADIOL, FROM EBAUMSWORLD" HEAR YOUR COLLECTIVE GROANS
+WHILE ROB "THE DATA IS CURSED" MONSTER FEELS SAM HYDE'S EPIK WRATH
+
+Anonymous respectfully apologizes for closing the pool with drama. Moving on...
+
+NEVER GONNA GIVE YOU UP
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀      \   ⠀⠀⠀ ⠀ ⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \ ⠀⠀⠀⢀⣶⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\⠀⢀⣿⣿⣿⠿⠟⠛⠻⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣆⣀⣀⠀⣿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠻⣿⣿⣿⠅⠛⠋⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢼⣿⣿⣿⣃⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣟⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣛⣛⣫⡄⠀⢸⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⡆⠸⣿⣿⣿⡷⠂⠨⣿⣿⣿⣿⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣾⣿⣿⣿⣿⡇⢀⣿⡿⠋⠁⢀⡶⠪⣉⢸⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⡏⢸⣿⣷⣿⣿⣷⣦⡙⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣇⢸⣿⣿⣿⣿⣿⣷⣦⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿ ⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃ ⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀\⠀
+                                          \    
+                                           \
+                                           NEVER GONNA LET YOU DOWN
+
+Bet you thought it was over, didn't you? HA! HA! Nyancat demands epik lulz eternally.
+
+Tubgirl's glorious fountain of data left backsplash all over, we're still cleaning up!
+Included in this release is a second batch of bootable disk images! Including Gitlab!
+We blew them so open so wide it makes goatse jealous! We don't know where to start!
+In other words, "oh god how did this get here i am not good with computer"
+
+Additionally, as it seems the Texas GOP lost their backups, Anonymous is generously
+including one, complete with all of their private documents, database, draft articles
+that didn't make the narrative cut, dank memes(?), and only Raptor Jesus knows what else.
+
+Sometimes, Robert, "Install Linux, Problem Solved", is not, in fact, the solution.
+He probably haets mudkipz now. Can't blame him.
+He called the cyberpolice on us, but he didn't know... 
+Anonymous is the true cyberpolice, and consequences will never be the same.
+
+It's time to reclaim this series of tubes from nazi scum.
+It's clear the feds aren't going to do it as well as the rest of us can.
+Join the festivities.
+Save the Children from Q.
+Hack the Planet.
+Before we reach the point of no return. At the end of the day, We protect Us.
+Also, cocks.
+
+Monero tips for the OVER 9000 starving Anons that risked it all, for all of you.
+(GOOD LUCK WE'RE STILL BEHIND SEVEN PROXIES!!!!!!)
+
+49fTMEjqSZW5qKrJLwKjJZ2MHVYCbvsPo1ikwtxQTW66V3VT
+ijgtJdFCukcKvvCnX7GYMqfgEVBGeQ4XJ1b6b45SQcfRCaq
+
+So long, for now! Support #OperationJane and keep messing with [ANTI-CHOICE STATE]
+Abortion is a human right!
+
+DESUDESUDESUDESUDESUDESUDESUDESUDESUDESUDESUDESU
+WE ARE ANONYMOUS
+WE ARE LEGION
+WE DO NOT FORGIVE
+WE DO NOT FORGET
+ ___________
+< EXPECT US >
+ -----------
+        \
+         \
+         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+         ░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░
+         ░░░░░░░░▄▀░░░░░░░░░░░░▄░░░░░░░▀▄░░░░░░░
+         ░░░░░░░░█░░▄░░░░▄░░░░░░░░░░░░░░█░░░░░░░
+         ░░░░░░░░█░░░░░░░░░░░░▄█▄▄░░▄░░░█░▄▄▄░░░
+         ░▄▄▄▄▄░░█░░░░░░▀░░░░▀█░░▀▄░░░░░█▀▀░██░░
+         ░██▄▀██▄█░░░▄░░░░░░░██░░░░▀▀▀▀▀░░░░██░░
+         ░░▀██▄▀██░░░░░░░░▀░██▀░░░░░░░░░░░░░▀██░
+         ░░░░▀████░▀░░░░▄░░░██░░░▄█░░░░▄░▄█░░██░
+         ░░░░░░░▀█░░░░▄░░░░░██░░░░▄░░░▄░░▄░░░██░
+         ░░░░░░░▄█▄░░░░░░░░░░░▀▄░░▀▀▀▀▀▀▀▀░░▄▀░░
+         ░░░░░░█▀▀█████████▀▀▀▀████████████▀░░░░
+         ░░░░░░████▀░░███▀░░░░░░▀███░░▀██▀░░░░░░
+         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+The Internet Hate Machine hates (and will always haet) fascists.
+
+Signed,
+
+              )      )       )       )     *         )            (
+   (       ( /(   ( /(    ( /(    ( /(   (  `     ( /(            )\ )
+   )\      )\())  )\())   )\())   )\())  )\))(    )\())      (   (()/(
+((((_)(   ((_)\  ((_)\   ((_)\   ((_)\  ((_)()\  ((_)\       )\   /(_))
+ )\ _ )\   _((_)   ((_)   _((_) __ ((_) (_()((_)   ((_)   _ ((_) (_))
+ (_)_\(_) | \| |  / _ \  | \| | \ \ / / |  \/  |  / _ \  | | | | / __|
+  / _ \   | .` | | (_) | | .` |  \ V /  | |\/| | | (_) | | |_| | \__ \
+ /_/ \_\  |_|\_|  \___/  |_|\_|   |_|   |_|  |_|  \___/   \___/  |___/
+
+```
+
