@@ -12,8 +12,8 @@
     * [\[2009\] Telecomix](details/attribution/hackivists/2009-telecomix.md)
     * [\[2003\] Anonymous](details/attribution/hackivists/2003-anonymous.md)
   * [Fake Hackivists?](details/attribution/fake-hackivists/README.md)
-    * [\[2012\] Cutting Sword of Justice](details/attribution/fake-hackivists/2012-cutting-sword-of-justice.md)
     * [\[2014\] Guardians Of Peace](details/attribution/fake-hackivists/2014-guardians-of-peace.md)
+    * [\[2012\] Cutting Sword of Justice](details/attribution/fake-hackivists/2012-cutting-sword-of-justice.md)
   * [Nation States](details/attribution/nation-states.md)
   * [Unknowns](details/attribution/unknowns.md)
 

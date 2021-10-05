@@ -130,5 +130,17 @@ Signed,
 
 {% file src="../../../.gitbook/assets/epikfailyoulostthegame.torrent" %}
 
+## History
 
+The torrent contained the following
+
+* **crypto2.xz** 2.97GB - 
+* **crypto3.xz** 2.5GB - 
+* **dokku.xz** 9.69GB - 
+* **epiktests.xz** 9.2GB - 
+* **gitlab.xz** 45.48GB - 
+* **gopfiles.xz** 10.59GB - 
+* **misadopt.xz** 32.47GB - 
+* **texasgop-dev.sql.gz** 24.9MB - 
+* **texasgop-sql.gz** 34.4MB -
 
