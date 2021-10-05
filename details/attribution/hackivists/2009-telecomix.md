@@ -1,6 +1,6 @@
 # \[2009\] Telecomix
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Metadata  
 Country**: Unknown  
 **Active**: Who knows  

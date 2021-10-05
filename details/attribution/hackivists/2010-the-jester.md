@@ -1,6 +1,6 @@
 # \[2010\] The Jester
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Metadata  
 Country**: ?  
 **Active**: Who knows  

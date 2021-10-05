@@ -1,6 +1,6 @@
 # \[2003\] Anonymous
 
-{% hint style="warning" %}
+{% hint style="info" %}
 **Metadata  
 Country**: ?  
 **Active**: ?  

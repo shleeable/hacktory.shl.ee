@@ -4,7 +4,9 @@ description: also known as Phineas Phisher or Subcowmandante Marcos.
 
 # \[2014\] Phineas Fisher
 
-{% hint style="success" %}
+
+
+{% hint style="info" %}
 **Metadata  
 Country**: Unknown  
 **Active**: Who knows  
