@@ -4,7 +4,7 @@ description: also known as Phineas Phisher or Subcowmandante Marcos.
 
 # \[2014\] Phineas Fisher
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Metadata  
 Country**: Unknown  
 **Active**: Who knows  
@@ -17,11 +17,11 @@ Country**: Unknown
 
 ## History
 
+* [**Gamma Group International/FinFisher - August 2014**](../../../timeline/2014/august-2014/gamma-group-international-finfisher-2014.md)\*\*\*\*
+* \*\*\*\*[**Hacking Team - April 2016**](../../../timeline/2016/april-2016/hacking-team-april-2016.md)\*\*\*\*
+* **Catalan police union - May 2016**
+
+## Optional
+
 ![Us?](../../../.gitbook/assets/image%20%2811%29.png)
-
-### \*\*\*\*[**Gamma Group International/FinFisher - August 2014**](../../../timeline/2014/august-2014/gamma-group-international-finfisher-2014.md)\*\*\*\*
-
-### \*\*\*\*[**Hacking Team - April 2016**](../../../timeline/2016/april-2016/hacking-team-april-2016.md)\*\*\*\*
-
-### **Catalan police union - May 2016**
 
