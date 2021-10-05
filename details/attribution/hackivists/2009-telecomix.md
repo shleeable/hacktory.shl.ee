@@ -1,5 +1,16 @@
 # \[2009\] Telecomix
 
+{% hint style="warning" %}
+**Metadata  
+Country**: Unknown  
+**Active**: Who knows  
+**Alignment**: Chaotic Good  
+**Identity**: Unknown publicly, but likely known within the hacker community.  
+**Feelpinion**: ?
+{% endhint %}
+
+
+
 ![](../../../.gitbook/assets/image%20%283%29.png)
 
 ![Telecomix Crypto Munitions Bureau \(TCMB\)](../../../.gitbook/assets/image%20%284%29.png)
