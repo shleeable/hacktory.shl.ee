@@ -21,7 +21,7 @@
 
 * [2021](timeline/2021/README.md)
   * [October 2021](timeline/2021/october-2021/README.md)
-    * [Untitled](timeline/2021/october-2021/untitled.md)
+    * [4th - Operation Epik Fail - You Lost The Game](timeline/2021/october-2021/untitled.md)
   * [September 2021](timeline/2021/september-2021/README.md)
     * [29th - Operation Epik Fail - the /b/ sides](timeline/2021/september-2021/operation-epik-fail-the-b-sides.md)
     * [13th - Operation Epik Fail](timeline/2021/september-2021/operation-epik-fail.md)
