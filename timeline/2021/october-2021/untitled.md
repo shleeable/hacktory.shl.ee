@@ -132,7 +132,7 @@ Signed,
 
 ## History
 
-The torrent contained the following
+The torrent contained the following files
 
 * **crypto2.xz** 2.97GB - 
 * **crypto3.xz** 2.5GB - 
