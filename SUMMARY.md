@@ -5,8 +5,9 @@
 ## Details
 
 * [Attribution](details/attribution/README.md)
+  * [Anonymous](details/attribution/anonymous/README.md)
+    * [\[2021\] Anonymous \(Epik Fail\)](details/attribution/anonymous/2021-anonymous.md)
   * [Hackivists](details/attribution/hackivists/README.md)
-    * [\[2021\] Anonymous \(Epik Fail\)](details/attribution/hackivists/2021-anonymous.md)
     * [\[2014\] Phineas Fisher](details/attribution/hackivists/2014-phineas-fisher.md)
     * [\[2014\] Rawshark](details/attribution/hackivists/2014-rawshark.md)
     * [\[2010\] The Jester](details/attribution/hackivists/2010-the-jester.md)
