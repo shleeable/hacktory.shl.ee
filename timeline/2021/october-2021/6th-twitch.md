@@ -2,7 +2,8 @@
 
 {% hint style="info" %}
 **Metadata  
-Company:** Twitch
+Attribution:** ?  
+**Company:** Twitch.tv, owned by Amazon.
 {% endhint %}
 
 Announced on 4chan [https://boards.4channel.org/g/thread/83691438\#p83691709](https://boards.4channel.org/g/thread/83691438#p83691709) with a torrent magnet linking to 128GB of zipped folders.
