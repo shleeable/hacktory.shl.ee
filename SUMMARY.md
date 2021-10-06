@@ -22,7 +22,7 @@
 
 * [2021](timeline/2021/README.md)
   * [October 2021](timeline/2021/october-2021/README.md)
-    * [6th - Twitch](timeline/2021/october-2021/6th-twitch.md)
+    * [6th - Twitch.tv leak](timeline/2021/october-2021/6th-twitch.md)
     * [4th - Operation Epik Fail - You Lost The Game](timeline/2021/october-2021/untitled.md)
   * [September 2021](timeline/2021/september-2021/README.md)
     * [29th - Operation Epik Fail - the /b/ sides](timeline/2021/september-2021/operation-epik-fail-the-b-sides.md)

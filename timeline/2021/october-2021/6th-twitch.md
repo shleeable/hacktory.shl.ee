@@ -1,4 +1,4 @@
-# 6th - Twitch
+# 6th - Twitch.tv leak
 
 {% hint style="info" %}
 **Metadata  
